@@ -130,7 +130,7 @@ L'infrastructure repose sur Windows Server 2022 pour assurer une cohérence d'ad
 | **Backup & Restauration** | 60 | `192.168.10.48/29` | `192.168.10.49` | `.50 → .54` | NAS/Serveur Backup `.50` | Isolé |
 
 Schéma de l'addressage IP 
-![PlanIP](images/schéma_et_addressage_ip.png)
+![PlanIP](Images/schéma_et_addressage_ip.png)
 
 ---
 ### D. Segmentation Réseau & Règles pfSense
@@ -148,7 +148,7 @@ Schéma de l'addressage IP
 
 Vue de l'architecture réseau sur GNS3 :
 
-![GNS3](images/architecture.png)
+![GNS3](Images/architecture.png)
 
 ---
 
